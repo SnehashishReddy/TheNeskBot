@@ -1,7 +1,7 @@
 from fable.credentials import bot_token
 from fable.ocr.char_rec import character_recognise
 from fable.summarizer.summarizer import summarize
-from fable.keywordextracter.keywordextractor import extract_keywords, extract_keyphrases
+from fable.keywordextracter.keywordextractor import extract_keyphrases
 from fable.api.api import get_results
 
 import logging
